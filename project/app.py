@@ -1,7 +1,6 @@
 import os
 from functools import wraps
 from pathlib import Path
-
 from flask import (
     Flask,
     render_template,
